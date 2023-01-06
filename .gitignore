@@ -1,0 +1,8 @@
+# Local history
+.history
+
+# dependencies
+node_modules
+
+# log
+*.log

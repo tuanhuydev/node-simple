@@ -1,0 +1,13 @@
+{
+  "name": "aws-node-simple",
+  "version": "0.0.0",
+  "description": "test node app for aws, ci, cd",
+  "main": "app.js",
+  "repository": "https://github.com/tuanhuydev/aws-node-simple.git",
+  "author": "tuanhuydev <tuanhuydev@gmail.com>",
+  "scripts": {
+	"dev": "node app.js"
+  },
+  "license": "none",
+  "private": "false"
+}
